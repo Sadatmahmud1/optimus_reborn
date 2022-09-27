@@ -277,7 +277,7 @@ if __name__ == '__main__':
 
         # convercetion with friends:
 
-        elif 'Aurup' in query:
+        elif '0000' in query:
             print("I think he is a nice person,and your good friend also.")
             speek("I think he is a nice person,and your good friend also")
 
