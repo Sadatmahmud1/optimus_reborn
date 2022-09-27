@@ -280,5 +280,8 @@ if __name__ == '__main__':
         elif '0000' in query:
             print("I think he is a nice person,and your good friend also.")
             speek("I think he is a nice person,and your good friend also")
+        elif '0001' in query:
+            print("I think he is a nice person,and your good friend also.")
+            speek("I think he is a nice person,and your good friend also")
 
 
