@@ -498,10 +498,6 @@ if __name__ == '__main__':
             speek(compliment1)
 
 
-        elif 'who is ghulam mustafa' in query:
-            print("GM sir or, Golam mostofa sir is your honorable teacher, in rcbsc. at the department of ICT")
-            speek("GM sir or, Golam mostofa sir is your honorable teacher, in rcbsc. at the department of ICT")
-            continue
         # Email function
 
         elif 'send email' in query:
