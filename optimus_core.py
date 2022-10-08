@@ -465,7 +465,7 @@ if __name__ == '__main__':
             print("I think he is a nice person,and your good friend also.")
             speek("I think he is a nice person,and your good friend also")
 
-        elif 'my friends' in query:
+        elif 'sadats friends' in query:
             print(rcbscians)
             speek(rcbscians)
 
