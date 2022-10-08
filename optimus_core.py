@@ -461,7 +461,7 @@ if __name__ == '__main__':
 
         # convercetion with friends:
 
-        elif ' rahul' in query:
+        elif ' name x' in query:
             print("I think he is a nice person,and your good friend also.")
             speek("I think he is a nice person,and your good friend also")
 
@@ -469,7 +469,7 @@ if __name__ == '__main__':
             print(rcbscians)
             speek(rcbscians)
 
-        elif 'lemon' in query:
+        elif 'name x' in query:
             print("I think he is a good person,and he loves food . and I Think he needs a girl friend ")
             speek("I think he is a good person,and he loves food . and I Think he needs a girl friend")
 
